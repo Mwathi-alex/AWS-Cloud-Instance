@@ -29,6 +29,7 @@ Deployed a secure and scalable EC2 instance with proper networking and access co
 
 
 -Best practice.
+
 Terminated the EC2 instance demo.
 <img width="2560" height="1440" alt="Screenshot (534)" src="https://github.com/user-attachments/assets/ebba7ff1-a314-4d79-b3d6-a1894951a97a" />
 <img width="2560" height="1440" alt="Screenshot (536)" src="https://github.com/user-attachments/assets/dd13b570-c718-4121-b33f-d4c0f04f4ec8" />
